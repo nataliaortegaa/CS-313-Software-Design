@@ -1,1 +1,1 @@
-Second Class in the Computer Science Certificate Sequence. Focused on software development using object-oriented programming. All the attachments are the homeworks for the class. All done by myself, except if otherwise mentioned.
+Second Class in the Computer Science Certificate Sequence. Focused on software development using object-oriented programming. All the attachments are the homeworks for the class. All done by myself, unless otherwise mentioned.
