@@ -1,1 +1,1 @@
-Second Class in the Computer Science Certificate Sequence. Focused on software development using object-oriented programming. Each attachment is an individual homework/exam for the class. All done by myself, unless otherwise mentioned.
+Second Class in the Computer Science Certificate Sequence. Focused on software development using object-oriented programming. Each attachment is an individual homework/exam for the class. All done by myself, except for "Spiral.py", which was done with partner Ashley Chen.
